@@ -1,0 +1,4 @@
+ #Gentola que sols vol fer maldats
+1. Joker
+2. Flash reverso
+3. Kilgrave
